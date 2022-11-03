@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jempete
+- 👀 I’m interested in the codings.
+- 🌱 I’m currently learning FlutterFlow.
+- 💞️ I’m looking to collaborate on disruptive projects!
+- 📫 How to reach me pete@jem.social
